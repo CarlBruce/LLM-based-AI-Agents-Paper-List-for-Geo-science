@@ -1,4 +1,4 @@
-# LLM-Agent-Paper-List for Research
+# LLM-Agent-Paper-List for Geo-Jarvis Comprehensive Research
 Thinking of LLM-Agent
 
 ## Comprehensive survey
